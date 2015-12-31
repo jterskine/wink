@@ -1,0 +1,108 @@
+/**********************************
+GENERAL
+**********************************/
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 130px auto;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+}
+
+img{
+	max-width: 100%;
+}
+
+h3{
+	margin: 0 0 1em 0;
+	color: #000;
+}
+
+
+
+/**********************************
+HEADING
+**********************************/
+
+
+h3{
+	font-family: 'Lato', sans-serif;
+	margin: 0px 0;
+	font-size: 4.75em;
+	font-weight: normal;
+	line-height: 0.8em;
+	color: #3f3f3f
+	}
+
+
+
+/**********************************
+PAGE: Splash
+**********************************/
+
+.wink-logo {
+	display: block;
+	max-width: 375px;
+	margin: 0 0 50px 15px;
+}
+
+.appstore-logo{
+	display: block;
+	max-width: 150px
+}
+
+
+
+/**********************************
+FOOTER
+**********************************/
+
+footer{
+	font-size: 0.77em;
+	text-align: center;
+	clear: both;
+	padding-top: 0px;
+	color: #ccc;
+}
+
+.social-icon{
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+
+
+
+/**********************************
+COLORS
+**********************************/
+
+/* site body */
+body{
+	background-color: #ffffff;
+	color:#3f3f3f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
